@@ -291,8 +291,8 @@
 <h1>MSCC</h1>
 <h2>PWA Heroes App with Angular</h2>
 <mat-grid-list cols="4" rowHeight="1000px">
-  <mat-grid-tile *ngFor="let hero of herosList" >
-    <mat-card class="example-card" style="padding-left: 25px;">
+  <mat-grid-tile *ngFor="let hero of herosList; let i=index" >
+    <mat-card class="example-card" *ngIf="i<50" style="padding-left: 25px;">
       <mat-card-header>
         <div mat-card-avatar class="example-header-image"></div>
         <mat-card-title>{{hero.name}}</mat-card-title>
