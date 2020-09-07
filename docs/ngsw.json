@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1599472414575,
-  "index": "/index.html",
+  "timestamp": 1599489664894,
+  "index": "https://arvindbalgo.github.io/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/index.html",
-        "/main.4565b3adb7a615078e55.js",
-        "/manifest.webmanifest",
-        "/polyfills.08cdd93a9921fbb99ed7.js",
-        "/runtime.f9956ac3c2762746a398.js",
-        "/styles.09e2c710755c8867a460.css"
+        "https://arvindbalgo.github.io/mscc_pwa_demo/index.html",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/main.4565b3adb7a615078e55.js",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/manifest.webmanifest",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-128x128.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-144x144.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-152x152.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-192x192.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-384x384.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-512x512.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-72x72.png",
+        "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/index.html": "db077dd42a0f72a7449dc36bb2665c5e541b84cc",
-    "/main.4565b3adb7a615078e55.js": "89f446b123fa542f39ae8cb6193fb1e9c4d823f2",
-    "/manifest.webmanifest": "e2180abaa92e59b1863136c614b89cdbde1e6257",
-    "/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/index.html": "5b1cc2911334dabc1327545da9b63372e152b763",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/main.4565b3adb7a615078e55.js": "89f446b123fa542f39ae8cb6193fb1e9c4d823f2",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/manifest.webmanifest": "e2180abaa92e59b1863136c614b89cdbde1e6257",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
