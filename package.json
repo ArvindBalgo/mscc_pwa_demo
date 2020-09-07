@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --prod --base-href 'https://arvindbalgo.github.io/mscc_pwa_demo/'",
+    "build:prod": "ng build --prod --base-href '/mscc_pwa_demo/'",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
