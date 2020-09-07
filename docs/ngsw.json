@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599489664894,
+  "timestamp": 1599489889889,
   "index": "https://arvindbalgo.github.io/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://arvindbalgo.github.io/mscc_pwa_demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://arvindbalgo.github.io/mscc_pwa_demo/index.html": "5b1cc2911334dabc1327545da9b63372e152b763",
     "https://arvindbalgo.github.io/mscc_pwa_demo/main.4565b3adb7a615078e55.js": "89f446b123fa542f39ae8cb6193fb1e9c4d823f2",
-    "https://arvindbalgo.github.io/mscc_pwa_demo/manifest.webmanifest": "e2180abaa92e59b1863136c614b89cdbde1e6257",
+    "https://arvindbalgo.github.io/mscc_pwa_demo/manifest.webmanifest": "0af3155f11c727ae53621468de0de2bf7c8b84a7",
     "https://arvindbalgo.github.io/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://arvindbalgo.github.io/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://arvindbalgo.github.io/mscc_pwa_demo/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
