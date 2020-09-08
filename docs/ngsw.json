@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599583810408,
+  "timestamp": 1599584624760,
   "index": "/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/mscc_pwa_demo/index.html",
-        "/mscc_pwa_demo/main.48e53beb4ea93e8a9058.js",
+        "/mscc_pwa_demo/main.9cdab2786a3410482151.js",
         "/mscc_pwa_demo/manifest.webmanifest",
         "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js",
         "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js",
@@ -46,7 +46,7 @@
       "name": "superheroes",
       "patterns": [
         "https:\\/\\/www\\.superheroapi\\.com\\/api\\.php\\/10223154308827957\\/search\\/a",
-        "https:\\/\\/www\\.superherodb\\.com\\/pictures2\\/portraits"
+        "https:\\/\\/www\\.superherodb\\.com\\/pictures2\\/portraits\\/10\\/100\\/10060\\.jpg"
       ],
       "strategy": "performance",
       "maxSize": 100,
@@ -67,8 +67,8 @@
     "/mscc_pwa_demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/mscc_pwa_demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/mscc_pwa_demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/mscc_pwa_demo/index.html": "24dd0411b7578791f48bb54c52fef11ec6ec94c4",
-    "/mscc_pwa_demo/main.48e53beb4ea93e8a9058.js": "6e46cef9deb69d603d5f64488e36d264d26a00be",
+    "/mscc_pwa_demo/index.html": "afbb409a43c595985d963f301fd671a0dcf7545d",
+    "/mscc_pwa_demo/main.9cdab2786a3410482151.js": "7e054a3a01b712c092aebf7865d5f96d8a0ad281",
     "/mscc_pwa_demo/manifest.webmanifest": "0af3155f11c727ae53621468de0de2bf7c8b84a7",
     "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
