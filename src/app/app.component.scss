@@ -1,0 +1,13 @@
+.top {
+  position: fixed;
+  background: white;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  z-index: 1001;
+  top:0;
+}
+
+.t-30 {
+  top: 30px;
+}
