@@ -17,13 +17,14 @@ export class AppComponent implements OnInit{
   }
 
   ngOnInit(): void {
+    console.log('Init app');
     if(this.swUpdate.isEnabled) {
       this.swUpdate.available.subscribe((swResponse) => {
         console.log(swResponse, 'response');
         if(confirm('New Version is available, Load it?')) {
           window.location.reload();
         }
-      })
+      });
     }
 
     this.http$.get('https://www.superheroapi.com/api.php/10223154308827957/search/a').subscribe((response: ApiModel) => {
