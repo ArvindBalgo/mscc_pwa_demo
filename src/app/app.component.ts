@@ -16,7 +16,7 @@ export class AppComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    this.http$.get('assets/data.json').subscribe((response: ApiModel) => {
+    this.http$.get('https://www.superheroapi.com/api.php/10223154308827957/search/a').subscribe((response: ApiModel) => {
       console.log(response.results);
       this.herosList = response.results;
     });
