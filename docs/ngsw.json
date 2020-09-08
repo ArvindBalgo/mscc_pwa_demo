@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599583122778,
+  "timestamp": 1599583572295,
   "index": "/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
@@ -45,7 +45,8 @@
     {
       "name": "superheroes",
       "patterns": [
-        "https:\\/\\/www\\.superheroapi\\.com\\/api\\.php\\/10223154308827957\\/search\\/a"
+        "https:\\/\\/www\\.superheroapi\\.com\\/api\\.php\\/10223154308827957\\/search\\/a",
+        "https:\\/\\/www\\.superherodb\\.com\\/pictures2\\/portraits"
       ],
       "strategy": "performance",
       "maxSize": 100,

@@ -28,7 +28,7 @@
   "dataGroups": [
     {
       "name" : "superheroes",
-      "urls": ["https://www.superheroapi.com/api.php/10223154308827957/search/a"],
+      "urls": ["https://www.superheroapi.com/api.php/10223154308827957/search/a", "https://www.superherodb.com/pictures2/portraits"],
       "cacheConfig": {
         "strategy": "performance",
         "maxSize": 100,
