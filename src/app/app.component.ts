@@ -23,9 +23,9 @@ export class AppComponent implements OnInit{
     if(this.swUpdate.isEnabled) {
       this.swUpdate.available.subscribe((swResponse) => {
         this.openModal();
-        if(confirm('New Version is available, Load it?')) {
+        /*if(confirm('New Version is available, Load it?')) {
           window.location.reload();
-        }
+        }*/
       });
     }
 
