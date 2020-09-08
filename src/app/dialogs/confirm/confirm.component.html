@@ -1,0 +1,8 @@
+<h2 mat-dialog-title>New Version</h2>
+<mat-dialog-content class="mat-typography">
+  <h3>A new version of your application is available. Would you like to reload with the new version?</h3>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+  <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Reload</button>
+</mat-dialog-actions>

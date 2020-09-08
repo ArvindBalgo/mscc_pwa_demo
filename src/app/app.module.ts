@@ -11,10 +11,13 @@ import {MatGridListModule} from '@angular/material/grid-list';
 import {MatCardModule} from '@angular/material/card';
 import {MatButtonModule} from '@angular/material/button';
 import {MatChipsModule} from '@angular/material/chips';
+import { ConfirmComponent } from './dialogs/confirm/confirm.component';
+import {MatDialogModule} from '@angular/material/dialog';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ConfirmComponent
   ],
   imports: [
     BrowserModule,
@@ -25,7 +28,8 @@ import {MatChipsModule} from '@angular/material/chips';
     MatGridListModule,
     MatCardModule,
     MatButtonModule,
-    MatChipsModule
+    MatChipsModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]

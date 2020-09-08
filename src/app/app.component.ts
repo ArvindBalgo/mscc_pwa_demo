@@ -2,6 +2,8 @@ import {Component, OnInit} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {ApiModel, HeroModel} from './models/heroes-model';
 import {SwUpdate} from '@angular/service-worker';
+import {MatDialog} from '@angular/material/dialog';
+import {ConfirmComponent} from './dialogs/confirm/confirm.component';
 
 
 
@@ -13,14 +15,14 @@ import {SwUpdate} from '@angular/service-worker';
 export class AppComponent implements OnInit{
   title = 'mscc-pwa-demo';
   herosList: Array<HeroModel> = [];
-  constructor(private http$: HttpClient, private swUpdate: SwUpdate) {
+  constructor(private http$: HttpClient, private swUpdate: SwUpdate, public dialog: MatDialog) {
   }
 
   ngOnInit(): void {
     console.log('Init app');
     if(this.swUpdate.isEnabled) {
       this.swUpdate.available.subscribe((swResponse) => {
-        console.log(swResponse, 'response');
+        this.openModal();
         if(confirm('New Version is available, Load it?')) {
           window.location.reload();
         }
@@ -32,4 +34,15 @@ export class AppComponent implements OnInit{
       this.herosList = response.results;
     });
   }
+
+  private openModal(): void {
+    const dialogRef = this.dialog.open(ConfirmComponent);
+
+    dialogRef.afterClosed().subscribe(result => {
+      if(result) {
+        window.location.reload();
+      }
+    });
+  }
 }
+
