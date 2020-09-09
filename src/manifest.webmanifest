@@ -1,8 +1,8 @@
 {
   "name": "mscc-pwa-demo",
   "short_name": "mscc-pwa-demo",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#d65b42",
+  "background_color": "#870c0c",
   "display": "standalone",
   "scope": "./",
   "start_url": "https://arvindbalgo.github.io/mscc_pwa_demo/",
