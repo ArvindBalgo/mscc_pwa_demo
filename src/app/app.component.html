@@ -6,7 +6,7 @@
 
 <ul class="hero-list">
   <li class="list__container" *ngFor="let hero of herosList; let i=index">
-    <div *ngIf="i>401" >
+    <div>
       <h3 class="list__container-title">{{hero.name}}</h3>
       <img class="image-hero" [src]="hero.image.url" alt="Photo of a SuperHero">
       <div class="list__content">
