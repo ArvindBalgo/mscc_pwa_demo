@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "mscc-pwa-demo"
+  "defaultProject": "mscc-pwa-demo",
+  "cli": {
+    "analytics": "b1b5b59d-0e86-411e-8e07-1f8787f51293"
+  }
 }
