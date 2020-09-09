@@ -35,7 +35,7 @@ export class AppComponent implements OnInit, OnDestroy{
 
 
     //https://www.superheroapi.com/api.php/10223154308827957/search/a
-    this.heroesSubscription = this.http$.get('assets/data.json').subscribe((response: ApiModel) => {
+    this.heroesSubscription = this.http$.get('https://www.superheroapi.com/api.php/10223154308827957/search/a').subscribe((response: ApiModel) => {
 
       this.herosList = response.results;
       this.herosList.forEach((hero) => {
