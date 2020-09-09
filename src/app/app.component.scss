@@ -46,7 +46,9 @@ h1 {
   flex-wrap: wrap;
   margin: 170px auto 50px;
   padding: 0;
-
+  @media only screen and (max-width: 480px) {
+    overflow: hidden;
+  }
   .list__container {
     box-sizing: border-box;
     width: 33.3%;
