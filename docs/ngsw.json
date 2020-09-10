@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599702598940,
+  "timestamp": 1599703718109,
   "index": "/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/mscc_pwa_demo/index.html",
-        "/mscc_pwa_demo/main.61724d6ee6281d26b39c.js",
+        "/mscc_pwa_demo/main.4ea910f22e51deedb809.js",
         "/mscc_pwa_demo/manifest.webmanifest",
         "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js",
         "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js",
@@ -1078,8 +1078,8 @@
     "/mscc_pwa_demo/assets/icons/ms-icon-150x150.png": "60a0bb2dc2a992f335b26513a84dfcf6c8c66950",
     "/mscc_pwa_demo/assets/icons/ms-icon-310x310.png": "3a0fd64aa79d2688e47a7b6d7fc0289711eb08a6",
     "/mscc_pwa_demo/assets/icons/ms-icon-70x70.png": "ec1e676fafb750f73b73f33831056fdac245e9ce",
-    "/mscc_pwa_demo/index.html": "8030a1f4ed322797261ee29c04271336a47a3a4a",
-    "/mscc_pwa_demo/main.61724d6ee6281d26b39c.js": "bfb8ac2160361a530f5a207eb3bf10960ef5caa2",
+    "/mscc_pwa_demo/index.html": "1c1793726bd1ad0538b5e9ba42ff6425bab4f362",
+    "/mscc_pwa_demo/main.4ea910f22e51deedb809.js": "0c67811abbb7d7f7196a7db848748a11d053fdab",
     "/mscc_pwa_demo/manifest.webmanifest": "fa9ba5aabfdd91f519ec990acabf5e1cba4841cc",
     "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
