@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599657579406,
+  "timestamp": 1599699972035,
   "index": "/mscc_pwa_demo/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/mscc_pwa_demo/index.html",
-        "/mscc_pwa_demo/main.026f11492445943bf6b5.js",
+        "/mscc_pwa_demo/main.36eefa5997936f7b85a7.js",
         "/mscc_pwa_demo/manifest.webmanifest",
         "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js",
         "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js",
@@ -1042,7 +1042,7 @@
     "/mscc_pwa_demo/assets/957.jpg": "fa26f1c2e1489aed2ef82d55315cbdbe8df436e6",
     "/mscc_pwa_demo/assets/958.jpg": "565942b44263964de60cbc44ae738ff4a6257a9b",
     "/mscc_pwa_demo/assets/96.jpg": "512d76ee2f5c5af2020251feed883f53c302c5a4",
-    "/mscc_pwa_demo/assets/data.json": "f52754dfd2659b0d8f70dd49f7c81c7b20e87268",
+    "/mscc_pwa_demo/assets/data.json": "5ce03369548b6df9043a3bca645fe044e30959b5",
     "/mscc_pwa_demo/assets/icons/android-icon-144x144.png": "2cd0699fe1c048e7e23148b0653203dbe20cb072",
     "/mscc_pwa_demo/assets/icons/android-icon-192x192.png": "3d402a1f6b06b1c36a3beb5160aee320055623a3",
     "/mscc_pwa_demo/assets/icons/android-icon-36x36.png": "580eb3738625f87cf95e9f16ee3226bb0449eb44",
@@ -1076,9 +1076,9 @@
     "/mscc_pwa_demo/assets/icons/ms-icon-150x150.png": "60a0bb2dc2a992f335b26513a84dfcf6c8c66950",
     "/mscc_pwa_demo/assets/icons/ms-icon-310x310.png": "3a0fd64aa79d2688e47a7b6d7fc0289711eb08a6",
     "/mscc_pwa_demo/assets/icons/ms-icon-70x70.png": "ec1e676fafb750f73b73f33831056fdac245e9ce",
-    "/mscc_pwa_demo/index.html": "a371ee6336878890fe978d03900009810c7de818",
-    "/mscc_pwa_demo/main.026f11492445943bf6b5.js": "8b449693efecd9b963da6c8805c0ab4d955d8285",
-    "/mscc_pwa_demo/manifest.webmanifest": "b6ab286cf977b2f7bb53a462a0610bff5fc80b8e",
+    "/mscc_pwa_demo/index.html": "debf7286da003f03c2e7ec17302d6fc3ddfb4068",
+    "/mscc_pwa_demo/main.36eefa5997936f7b85a7.js": "8b449693efecd9b963da6c8805c0ab4d955d8285",
+    "/mscc_pwa_demo/manifest.webmanifest": "f35017b1a4877f63694d2ee6e55b969d30f72d8a",
     "/mscc_pwa_demo/polyfills.08cdd93a9921fbb99ed7.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/mscc_pwa_demo/runtime.f9956ac3c2762746a398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/mscc_pwa_demo/styles.04274f8de38ba6ec7482.css": "7cce09a5e31695a6de5d219f07cb19d48d825c5b"
