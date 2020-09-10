@@ -5,7 +5,7 @@
   "background_color": "#870c0c",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://arvindbalgo.github.io/mscc_pwa_demo/",
+  "start_url": "https://arvindbalgo.github.io/mscc_pwa_demo/index.html",
   "icons": [
    {
       "src": "assets/icons/android-icon-36x36.png",
@@ -47,7 +47,6 @@
            "src": "assets/icons/android-icon-512x512.png",
            "sizes": "512x512",
            "type": "image\/png",
-           "density": "4.1"
      }
   ]
 }
