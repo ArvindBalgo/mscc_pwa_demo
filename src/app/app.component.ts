@@ -23,13 +23,10 @@ export class AppComponent implements OnInit, OnDestroy{
   }
 
   ngOnInit(): void {
-    console.log('Init app');
+    console.log('Init app', this.swUpdate.isEnabled);
     if(this.swUpdate.isEnabled) {
       this.swSubscription = this.swUpdate.available.subscribe((swResponse) => {
         this.openModal();
-        /*if(confirm('New Version is available, Load it?')) {
-          window.location.reload();
-        }*/
       });
     }
 
