@@ -5,7 +5,7 @@
   "background_color": "#870c0c",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://arvindbalgo.github.io/mscc_pwa_demo/index.html",
+  "start_url": "https://arvindbalgo.github.io/mscc_pwa_demo/",
   "icons": [
    {
       "src": "assets/icons/android-icon-36x36.png",
